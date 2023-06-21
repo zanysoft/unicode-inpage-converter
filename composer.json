@@ -1,0 +1,20 @@
+{
+  "name": "zanysoft/unicode-inpage-converter",
+  "description": "Urdu Unicode to inPage and inPage to Urdu Unicode converter using php",
+  "minimum-stability": "stable",
+  "keywords": [
+    "inPage",
+    "Urdu",
+    "Urdu Unicode",
+    "Unicode converter"
+  ],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Mubashar Ahmad",
+      "email": "info@zanysoft.net"
+    }
+  ],
+  "require": {
+  }
+}
